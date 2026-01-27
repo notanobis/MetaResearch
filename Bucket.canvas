@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"8bf245c83b424307","type":"group","x":-1560,"y":640,"width":840,"height":440,"label":"Careers"},
+		{"id":"14ff2987e37b9de8","type":"link","url":"https://www.academia.edu/114777031/Higher_Education_Under_Occupation_Exploring_Teaching_and_Learning_Regimes_in_a_Palestinian_University","x":-440,"y":1000,"width":400,"height":400},
+		{"id":"59833d2fc7f34740","type":"link","url":"https://www.undp.org/careers","x":-1140,"y":660,"width":400,"height":400},
+		{"id":"1de58c19a733ca76","type":"link","url":"https://france.makesense.org/","x":-1540,"y":660,"width":400,"height":400},
+		{"id":"31694911633020f5","type":"link","url":"https://www.sustainable.soltechdesigns.com","x":-1540,"y":1200,"width":400,"height":395},
+		{"id":"688104f2b211b1f9","type":"file","file":"Attachements/Energy-and-Civilization-Vaclav-Smil.pdf","x":-1140,"y":1198,"width":400,"height":400},
+		{"id":"65f5f83a967a8911","type":"link","url":"https://dothemath.ucsd.edu/post-index/","x":-1520,"y":1640,"width":400,"height":400},
+		{"id":"f5f56f6c2562701f","type":"link","url":"https://www.academia.edu/74314627/Economics_of_Higher_Education_under_Occupation_The_Case_of_Palestine","x":80,"y":1000,"width":400,"height":400},
+		{"id":"a91a05511afa3237","type":"file","file":"Attachements/girls schools in ottoman empire.pdf","x":80,"y":450,"width":400,"height":400},
+		{"id":"5e9f7a964dd489a7","type":"text","text":"Η παιδεία (και όχι η εκπαίδευση), η καλλιέργηση της πραγματικά ανεξάρτητης και ορθολογικής σκέψης, είναι το πιο κοντά που μπορουμε να έρθουμε στην πραγματική ελευθερία. Είναι ο μόνος τρόπος αντίστασης στο τελευτείο πράγμα που μένει δικό μας - η σκέψη μας. Αν δεν μαθει λοιπον κάποιος να κυριεύει την σκεψη του, καποιος άλλος θα το κανει γι αυτον. \n","x":-578,"y":515,"width":538,"height":270},
+		{"id":"7f17e93f6788ec82","type":"link","url":"https://physicsworld.com/a/physicists-without-borders/","x":-1280,"y":-160,"width":400,"height":400},
+		{"id":"f4fc3edf15f6f527","x":-440,"y":1520,"width":400,"height":400,"type":"link","url":"https://en.wikipedia.org/wiki/How_the_Hippies_Saved_Physics"},
+		{"id":"840c69e2b10ba000","type":"link","url":"https://80000hours.org/articles/research-questions-by-discipline/?source=email&uni_id=523","x":-520,"y":-210,"width":400,"height":380},
+		{"id":"5391f31696984eef","type":"file","file":"Attachements/information-hazards.pdf","x":-40,"y":-210,"width":400,"height":400},
+		{"id":"19b1f8a4b567a957","type":"link","url":"https://www.ictp.it/home/physics-without-frontiers","x":-1720,"y":-160,"width":400,"height":400},
+		{"id":"43f25ab0bf8e9aac","x":-940,"y":1640,"width":400,"height":400,"type":"link","url":"https://www.opensourceecology.org/financial_independence_package/"}
+	],
+	"edges":[
+		{"id":"4adc44b2e0b45a12","fromNode":"840c69e2b10ba000","fromSide":"right","toNode":"5391f31696984eef","toSide":"left"},
+		{"id":"286d238e26ff33e2","fromNode":"5e9f7a964dd489a7","fromSide":"right","toNode":"a91a05511afa3237","toSide":"left"},
+		{"id":"a9c576dae568fccc","fromNode":"5e9f7a964dd489a7","fromSide":"bottom","toNode":"14ff2987e37b9de8","toSide":"top"},
+		{"id":"b590b1276e3b8ada","fromNode":"5e9f7a964dd489a7","fromSide":"bottom","toNode":"f5f56f6c2562701f","toSide":"top"}
+	]
+}

@@ -1,0 +1,4 @@
+
+- My biggest gripe with investor people is that “just build” is branded as the ultimate goal in a world where the important problems are political, not technical. There are no technical solutions to a political problem
+- The powerful people (including a lot of Israeli ex-militants) have deep ties in the Silicon Valley, and the investors are trying to convince people to go to the Silicon Valley (very strong language, e.g., you can't ... if you don't fly to SF)
+- They try to convince you that if you try hard in this world you will be rewarded. They make money out of you by playing friends. They say that you should be obsessed, one dimensional, think of nothing else. And they make it seem as if you’re some kind of elite to justify all of this

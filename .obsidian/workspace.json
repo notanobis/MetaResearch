@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "dc40cb10774720e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "27a7c33f4c469f7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96c211ae24175629",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Bucket.canvas",
+                "viewState": {
+                  "x": -444.2523302069606,
+                  "y": 2094.973905285153,
+                  "zoom": -0.953893885607588
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Bucket"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "989e88a9177f239a",
+    "type": "split",
+    "children": [
+      {
+        "id": "41769dbd66b6c069",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0761d9dfaa64770",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "07909783b4006fc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "df2fe2b35a2f337a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c2b1fc70f278e6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f84a4b04374a988",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1b89f0c091aef3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hello.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for hello"
+            }
+          },
+          {
+            "id": "97f51c953f5e6ca2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hello.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from hello"
+            }
+          },
+          {
+            "id": "1a39bc8b4083a32c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8cff06a8ce34b4d2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "55b4537c66886785",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hello.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of hello"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "96c211ae24175629",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Bucket.canvas",
+    "ai.md",
+    "Attachements/THE_SCIENTIFIC_CULTURE_IN_EIGHTEENTH_TO.pdf",
+    "Attachements/information-hazards.pdf",
+    "Attachements/girls schools in ottoman empire.pdf",
+    "Attachements/Energy-and-Civilization-Vaclav-Smil.pdf",
+    "social-media.md",
+    "orestis-resources.base",
+    "orestis-canvas.canvas",
+    "investors.md",
+    "manifesto.md",
+    "Manifesto.md",
+    "AI.md",
+    "Social Media.md",
+    "hello.md",
+    "Attachements",
+    "Welcome.md"
+  ]
+}
