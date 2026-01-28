@@ -11,17 +11,14 @@
             "id": "96c211ae24175629",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Bucket.canvas",
-                "viewState": {
-                  "x": -444.2523302069606,
-                  "y": 2094.973905285153,
-                  "zoom": -0.953893885607588
-                }
+                "file": "education.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Bucket"
+              "icon": "lucide-file",
+              "title": "education"
             }
           }
         ]
@@ -188,17 +185,17 @@
   },
   "active": "96c211ae24175629",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Bucket.canvas",
-    "ai.md",
     "Attachements/THE_SCIENTIFIC_CULTURE_IN_EIGHTEENTH_TO.pdf",
     "Attachements/information-hazards.pdf",
+    "education.md",
+    "investors.md",
     "Attachements/girls schools in ottoman empire.pdf",
+    "nota-canvas.canvas",
+    "ai.md",
     "Attachements/Energy-and-Civilization-Vaclav-Smil.pdf",
     "social-media.md",
     "orestis-resources.base",
     "orestis-canvas.canvas",
-    "investors.md",
     "manifesto.md",
     "Manifesto.md",
     "AI.md",

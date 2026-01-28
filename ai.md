@@ -85,3 +85,5 @@ Learning/Cognitive abilities
 
 The million dollars question:
 It is the first time my own experience and mental model about the world contradicts the claims of other people that much. Is there something I don't understand? Am I lying to myself? If not, why do people, from the technologically inept to PhDs and tech leads, try so hard to lie to themselves? Why are the poor, struggling to get by, living from paycheck to paycheck, so eager to defend their oppressors? Answering this question properly would require surveys, which is highly unlikely and prone to errors, but it's still worthwhile to try and answer, to understand what exactly contributes to the virility of this technology and economic model
+
+Losing the right to knowledge

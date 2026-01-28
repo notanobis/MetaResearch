@@ -1,0 +1,11 @@
+
+- science, education and the greek revolution 
+	- [[girls schools in ottoman empire.pdf]]
+	- [[THE_SCIENTIFIC_CULTURE_IN_EIGHTEENTH_TO.pdf]]
+- physics teaching reforms during the 2nd world war 
+	- [https://doi.org/10.1119/1.1990397](https://doi.org/10.1119/1.1990397)
+	- https://aapt.org/aboutaapt/history/wwii.cfm
+	- https://journals.aps.org/prper/abstract/10.1103/wfvw-hkyy
+	- https://gwern.net/doc/science/physics/1975-bowden.pdf
+	- https://physicseducation.net/docs/Otero_and_Meltzer_2016.pdf
+- education before and after the french revolution
